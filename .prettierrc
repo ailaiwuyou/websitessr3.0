@@ -1,0 +1,17 @@
+{
+    "tabWidth": 4,
+    "overrides": [
+        {
+            "files": "*.html",
+            "options": {
+                "parser":"html"
+            }
+        },
+        {
+            "files": "*.vue",
+            "options": {
+                "parser":"vue"
+            }
+        }
+    ]
+}
